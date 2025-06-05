@@ -1,0 +1,15 @@
+{
+  "name": "sendemail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-mailer": "^0.1.1",
+    "nodemailer": "^7.0.3"
+  }
+}
